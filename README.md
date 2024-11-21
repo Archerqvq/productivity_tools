@@ -10,3 +10,4 @@
 8. renamer
 9. snipaste
 10. usbDeview
+11. vmware station
